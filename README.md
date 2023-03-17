@@ -1,4 +1,4 @@
-- 👋 Hi, I’m anzaikk(join)
+- 👋 Hi, I’m anzaikk(john)
 - 👀 I’m interested in Look, code
 - 🌱 I’m currently learning vue3.0, python
 - 💞️ I’m looking to collaborate on ...
